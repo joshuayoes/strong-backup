@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/google-spreadsheet": "^3.3.0",
+    "@types/node": "^18.0.6",
+    "csv-parser": "^3.0.0",
+    "google-spreadsheet": "^3.3.0",
+    "node-fetch": "^3.2.6"
+  }
+}

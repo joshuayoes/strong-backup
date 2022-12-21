@@ -1,0 +1,324 @@
+Date;Workout Name;Exercise Name;Set Order;Weight;Weight Unit;Reps;RPE;Distance;Distance Unit;Seconds;Notes;Workout Notes;Workout Duration
+2022-09-20 16:39:37;"Week B Day 1";"Bench Press (Barbell)";1;115;lbs;4;6;;;0;"";"";17m
+2022-09-20 16:39:37;"Week B Day 1";"Bench Press (Barbell)";2;115;lbs;8;8;;;0;;;17m
+2022-09-20 16:39:37;"Week B Day 1";"Bench Press (Barbell)";3;115;lbs;7;9;;;0;;;17m
+2022-09-20 16:39:37;"Week B Day 1";"Bench Press (Barbell)";4;115;lbs;6;10;;;0;;;17m
+2022-09-20 16:39:37;"Week B Day 1";"Deadlift (Barbell)";1;115;lbs;8;;;;0;"";;17m
+2022-09-20 16:39:37;"Week B Day 1";"Deadlift (Barbell)";2;115;lbs;8;;;;0;;;17m
+2022-09-20 16:39:37;"Week B Day 1";"Deadlift (Barbell)";3;115;lbs;6;;;;0;;;17m
+2022-09-20 16:39:37;"Week B Day 1";"Overhead Press (Barbell)";1;70;lbs;4;;;;0;"";;17m
+2022-09-20 16:39:37;"Week B Day 1";"Overhead Press (Barbell)";2;70;lbs;4;;;;0;;;17m
+2022-09-20 16:39:37;"Week B Day 1";"Overhead Press (Barbell)";3;40;lbs;4;;;;0;;;17m
+2022-09-20 16:39:37;"Week B Day 1";"Overhead Press (Barbell)";4;70;lbs;4;;;;0;;;17m
+2022-09-20 16:39:37;"Week B Day 1";"Bent Over Row (Barbell)";1;70;lbs;4;;;;0;"";;17m
+2022-09-20 16:39:37;"Week B Day 1";"Bent Over Row (Barbell)";2;70;lbs;4;;;;0;;;17m
+2022-09-20 16:39:37;"Week B Day 1";"Bent Over Row (Barbell)";3;70;lbs;4;;;;0;;;17m
+2022-09-20 16:39:37;"Week B Day 1";"Bent Over Row (Barbell)";4;70;lbs;4;;;;0;;;17m
+2022-09-23 17:36:18;"Week B Day 2";"Bench Press (Barbell)";1;115;lbs;4;6;;;0;"";"";37m
+2022-09-23 17:36:18;"Week B Day 2";"Bench Press (Barbell)";2;115;lbs;4;6;;;0;;;37m
+2022-09-23 17:36:18;"Week B Day 2";"Bench Press (Barbell)";3;115;lbs;4;7;;;0;;;37m
+2022-09-23 17:36:18;"Week B Day 2";"Bench Press (Barbell)";4;115;lbs;4;10;;;0;;;37m
+2022-09-23 17:36:18;"Week B Day 2";"Squat (Barbell)";1;95;lbs;8;6.5;;;0;"";;37m
+2022-09-23 17:36:18;"Week B Day 2";"Squat (Barbell)";2;95;lbs;8;6.5;;;0;;;37m
+2022-09-23 17:36:18;"Week B Day 2";"Squat (Barbell)";3;115;lbs;8;7.5;;;0;;;37m
+2022-09-23 17:36:18;"Week B Day 2";"Squat (Barbell)";4;115;lbs;8;8;;;0;;;37m
+2022-09-23 17:36:18;"Week B Day 2";"Overhead Press (Barbell)";1;70;lbs;8;9;;;0;"";;37m
+2022-09-23 17:36:18;"Week B Day 2";"Overhead Press (Barbell)";2;70;lbs;5;10;;;0;;;37m
+2022-09-23 17:36:18;"Week B Day 2";"Overhead Press (Barbell)";3;60;lbs;5;9.5;;;0;;;37m
+2022-09-23 17:36:18;"Week B Day 2";"Overhead Press (Barbell)";4;60;lbs;5;9;;;0;;;37m
+2022-09-23 17:36:18;"Week B Day 2";"Chin Up (Assisted)";1;60;lbs;5;9.5;;;0;"Felt pain on left tricep on second set";;37m
+2022-09-23 17:36:18;"Week B Day 2";"Chin Up (Assisted)";2;75;lbs;6;8;;;0;;;37m
+2022-09-23 17:36:18;"Week B Day 2";"Chin Up (Assisted)";3;90;lbs;8;8.5;;;0;;;37m
+2022-09-23 17:36:18;"Week B Day 2";"Chin Up (Assisted)";4;90;lbs;8;9;;;0;;;37m
+2022-09-27 13:28:29;"Week A Day 1";"Bench Press (Barbell)";1;125;lbs;4;8;;;0;"";"";54m
+2022-09-27 13:28:29;"Week A Day 1";"Bench Press (Barbell)";2;125;lbs;4;8.5;;;0;;;54m
+2022-09-27 13:28:29;"Week A Day 1";"Bench Press (Barbell)";3;125;lbs;4;8.5;;;0;;;54m
+2022-09-27 13:28:29;"Week A Day 1";"Bench Press (Barbell)";4;125;lbs;4;9;;;0;;;54m
+2022-09-27 13:28:29;"Week A Day 1";"Squat (Barbell)";1;135;lbs;8;8.5;;;0;"";;54m
+2022-09-27 13:28:29;"Week A Day 1";"Squat (Barbell)";2;135;lbs;8;8.5;;;0;;;54m
+2022-09-27 13:28:29;"Week A Day 1";"Squat (Barbell)";3;135;lbs;8;8.5;;;0;;;54m
+2022-09-27 13:28:29;"Week A Day 1";"Squat (Barbell)";4;135;lbs;8;9;;;0;;;54m
+2022-09-27 13:28:29;"Week A Day 1";"Overhead Press (Barbell)";1;70;lbs;6;8.5;;;0;"";;54m
+2022-09-27 13:28:29;"Week A Day 1";"Overhead Press (Barbell)";2;70;lbs;6;9;;;0;;;54m
+2022-09-27 13:28:29;"Week A Day 1";"Overhead Press (Barbell)";3;70;lbs;6;9;;;0;;;54m
+2022-09-27 13:28:29;"Week A Day 1";"Overhead Press (Barbell)";4;70;lbs;6;10;;;0;;;54m
+2022-09-27 13:28:29;"Week A Day 1";"Chin Up (Assisted)";1;90;lbs;8;7;;;0;"";;54m
+2022-09-27 13:28:29;"Week A Day 1";"Chin Up (Assisted)";2;90;lbs;8;7.5;;;0;;;54m
+2022-09-27 13:28:29;"Week A Day 1";"Chin Up (Assisted)";3;90;lbs;8;9;;;0;;;54m
+2022-09-27 13:28:29;"Week A Day 1";"Chin Up (Assisted)";4;90;lbs;6;9;;;0;;;54m
+2022-10-03 18:53:27;"Week A Day 1";"Bench Press (Barbell)";1;135;lbs;3;9;;;0;"";"";55m
+2022-10-03 18:53:27;"Week A Day 1";"Bench Press (Barbell)";2;135;lbs;4;9.5;;;0;;;55m
+2022-10-03 18:53:27;"Week A Day 1";"Bench Press (Barbell)";3;135;lbs;4;9.5;;;0;;;55m
+2022-10-03 18:53:27;"Week A Day 1";"Bench Press (Barbell)";4;135;lbs;4;10;;;0;;;55m
+2022-10-03 18:53:27;"Week A Day 1";"Squat (Barbell)";1;150;lbs;5;8;;;0;"";;55m
+2022-10-03 18:53:27;"Week A Day 1";"Squat (Barbell)";2;150;lbs;6;8.5;;;0;;;55m
+2022-10-03 18:53:27;"Week A Day 1";"Squat (Barbell)";3;150;lbs;8;9.5;;;0;;;55m
+2022-10-03 18:53:27;"Week A Day 1";"Squat (Barbell)";4;150;lbs;6;9;;;0;;;55m
+2022-10-03 18:53:27;"Week A Day 1";"Overhead Press (Barbell)";1;70;lbs;8;8.5;;;0;"";;55m
+2022-10-03 18:53:27;"Week A Day 1";"Overhead Press (Barbell)";2;70;lbs;6;8.5;;;0;;;55m
+2022-10-03 18:53:27;"Week A Day 1";"Overhead Press (Barbell)";3;70;lbs;7;9;;;0;;;55m
+2022-10-03 18:53:27;"Week A Day 1";"Overhead Press (Barbell)";4;70;lbs;4;10;;;0;;;55m
+2022-10-03 18:53:27;"Week A Day 1";"Chin Up (Assisted)";1;75;lbs;8;8;;;0;"";;55m
+2022-10-03 18:53:27;"Week A Day 1";"Chin Up (Assisted)";2;75;lbs;8;8.5;;;0;;;55m
+2022-10-03 18:53:27;"Week A Day 1";"Chin Up (Assisted)";3;75;lbs;8;9;;;0;;;55m
+2022-10-03 18:53:27;"Week A Day 1";"Chin Up (Assisted)";4;75;lbs;5;9.5;;;0;;;55m
+2022-10-05 18:18:07;"Week A Day 2";"Bench Press (Barbell)";1;135;lbs;3;10;;;0;"";"";45m
+2022-10-05 18:18:07;"Week A Day 2";"Bench Press (Barbell)";2;115;lbs;8;10;;;0;;;45m
+2022-10-05 18:18:07;"Week A Day 2";"Bench Press (Barbell)";3;115;lbs;5;9;;;0;;;45m
+2022-10-05 18:18:07;"Week A Day 2";"Bench Press (Barbell)";4;115;lbs;4;10;;;0;;;45m
+2022-10-05 18:18:07;"Week A Day 2";"Deadlift (Barbell)";1;115;lbs;8;8;;;0;"";;45m
+2022-10-05 18:18:07;"Week A Day 2";"Deadlift (Barbell)";2;135;lbs;4;8;;;0;;;45m
+2022-10-05 18:18:07;"Week A Day 2";"Deadlift (Barbell)";3;135;lbs;4;;;;0;;;45m
+2022-10-05 18:18:07;"Week A Day 2";"Deadlift (Barbell)";4;135;lbs;4;;;;0;;;45m
+2022-10-05 18:18:07;"Week A Day 2";"Overhead Press (Barbell)";1;70;lbs;8;7;;;0;"Anterior deltoid extremely sore";;45m
+2022-10-05 18:18:07;"Week A Day 2";"Overhead Press (Barbell)";2;70;lbs;8;7.5;;;0;;;45m
+2022-10-05 18:18:07;"Week A Day 2";"Overhead Press (Barbell)";3;70;lbs;8;8.5;;;0;;;45m
+2022-10-05 18:18:07;"Week A Day 2";"Overhead Press (Barbell)";4;70;lbs;5;9.5;;;0;;;45m
+2022-10-05 18:18:07;"Week A Day 2";"Bent Over Row (Barbell)";1;70;lbs;8;7.5;;;0;"";;45m
+2022-10-05 18:18:07;"Week A Day 2";"Bent Over Row (Barbell)";2;70;lbs;8;8;;;0;;;45m
+2022-10-05 18:18:07;"Week A Day 2";"Bent Over Row (Barbell)";3;70;lbs;8;8.5;;;0;;;45m
+2022-10-05 18:18:07;"Week A Day 2";"Bent Over Row (Barbell)";4;70;lbs;8;8.5;;;0;;;45m
+2022-10-24 18:55:50;"Week A Day 1";"Bench Press (Barbell)";1;135;lbs;3;9.5;;;0;"";"";59m
+2022-10-24 18:55:50;"Week A Day 1";"Bench Press (Barbell)";2;115;lbs;8;8;;;0;;;59m
+2022-10-24 18:55:50;"Week A Day 1";"Bench Press (Barbell)";3;115;lbs;8;9;;;0;;;59m
+2022-10-24 18:55:50;"Week A Day 1";"Bench Press (Barbell)";4;115;lbs;7;10;;;0;;;59m
+2022-10-24 18:55:50;"Week A Day 1";"Squat (Barbell)";1;165;lbs;5;8;;;0;"";;59m
+2022-10-24 18:55:50;"Week A Day 1";"Squat (Barbell)";2;165;lbs;6;8;;;0;;;59m
+2022-10-24 18:55:50;"Week A Day 1";"Squat (Barbell)";3;165;lbs;8;8.5;;;0;;;59m
+2022-10-24 18:55:50;"Week A Day 1";"Squat (Barbell)";4;165;lbs;5;9.5;;;0;;;59m
+2022-10-24 18:55:50;"Week A Day 1";"Overhead Press (Barbell)";1;70;lbs;6;9.5;;;0;"";;59m
+2022-10-24 18:55:50;"Week A Day 1";"Overhead Press (Barbell)";2;70;lbs;4;10;;;0;;;59m
+2022-10-24 18:55:50;"Week A Day 1";"Overhead Press (Barbell)";3;60;lbs;5;9;;;0;;;59m
+2022-10-24 18:55:50;"Week A Day 1";"Overhead Press (Barbell)";4;60;lbs;5;9.5;;;0;;;59m
+2022-10-24 18:55:50;"Week A Day 1";"Lat Pulldown (Machine)";1;105;lbs;8;8;;;0;"";;59m
+2022-10-24 18:55:50;"Week A Day 1";"Lat Pulldown (Machine)";2;105;lbs;8;7.5;;;0;;;59m
+2022-10-24 18:55:50;"Week A Day 1";"Lat Pulldown (Machine)";3;105;lbs;8;8;;;0;;;59m
+2022-10-24 18:55:50;"Week A Day 1";"Lat Pulldown (Machine)";4;120;lbs;8;9;;;0;;;59m
+2022-10-28 13:42:11;"Week A Day 2";"Bench Press (Barbell)";1;115;lbs;8;7;;;0;"";"";1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Bench Press (Barbell)";2;115;lbs;8;7.5;;;0;;;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Bench Press (Barbell)";3;115;lbs;6;10;;;0;;;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Bench Press (Barbell)";4;115;lbs;7;10;;;0;;;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Deadlift (Barbell)";1;135;lbs;4;6;;;0;"";;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Deadlift (Barbell)";2;135;lbs;4;6;;;0;;;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Deadlift (Barbell)";3;135;lbs;4;6;;;0;;;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Deadlift (Barbell)";4;135;lbs;6;;;;0;;;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Overhead Press (Barbell)";1;70;lbs;4;8.5;;;0;"";;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Overhead Press (Barbell)";2;70;lbs;4;8.5;;;0;;;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Overhead Press (Barbell)";3;70;lbs;4;9;;;0;;;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Overhead Press (Barbell)";4;70;lbs;9;9.5;;;0;;;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Bent Over Row (Barbell)";1;80;lbs;8;6.5;;;0;"";;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Bent Over Row (Barbell)";2;80;lbs;8;6;;;0;;;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Bent Over Row (Barbell)";3;80;lbs;8;7.5;;;0;;;1h 15m
+2022-10-28 13:42:11;"Week A Day 2";"Bent Over Row (Barbell)";4;80;lbs;8;7.5;;;0;;;1h 15m
+2022-10-31 12:23:52;"Week B Day 1";"Bench Press (Barbell)";1;115;lbs;8;7;;;0;"";"";57m
+2022-10-31 12:23:52;"Week B Day 1";"Bench Press (Barbell)";2;115;lbs;8;7;;;0;;;57m
+2022-10-31 12:23:52;"Week B Day 1";"Bench Press (Barbell)";3;115;lbs;8;7.5;;;0;;;57m
+2022-10-31 12:23:52;"Week B Day 1";"Bench Press (Barbell)";4;115;lbs;8;8;;;0;;;57m
+2022-10-31 12:23:52;"Week B Day 1";"Deadlift (Barbell)";1;135;lbs;8;8;;;0;"Lower back felt pump";;57m
+2022-10-31 12:23:52;"Week B Day 1";"Deadlift (Barbell)";2;135;lbs;8;8;;;0;;;57m
+2022-10-31 12:23:52;"Week B Day 1";"Deadlift (Barbell)";3;135;lbs;8;8.5;;;0;;;57m
+2022-10-31 12:23:52;"Week B Day 1";"Deadlift (Barbell)";4;135;lbs;8;9;;;0;;;57m
+2022-10-31 12:23:52;"Week B Day 1";"Overhead Press (Barbell)";1;80;lbs;4;8;;;0;"";;57m
+2022-10-31 12:23:52;"Week B Day 1";"Overhead Press (Barbell)";2;80;lbs;4;8.5;;;0;;;57m
+2022-10-31 12:23:52;"Week B Day 1";"Overhead Press (Barbell)";3;80;lbs;4;8.5;;;0;;;57m
+2022-10-31 12:23:52;"Week B Day 1";"Overhead Press (Barbell)";4;80;lbs;4;9.5;;;0;;;57m
+2022-10-31 12:23:52;"Week B Day 1";"Bent Over Row (Barbell)";1;90;lbs;4;6;;;0;"";;57m
+2022-10-31 12:23:52;"Week B Day 1";"Bent Over Row (Barbell)";2;90;lbs;4;7;;;0;;;57m
+2022-10-31 12:23:52;"Week B Day 1";"Bent Over Row (Barbell)";3;90;lbs;4;7;;;0;;;57m
+2022-10-31 12:23:52;"Week B Day 1";"Bent Over Row (Barbell)";4;90;lbs;5;8;;;0;;;57m
+2022-11-02 17:02:49;"Week B Day 2";"Bench Press (Barbell)";1;95;lbs;8;6.5;;;0;"";"";1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Bench Press (Barbell)";2;115;lbs;8;8;;;0;;;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Bench Press (Barbell)";3;115;lbs;5;10;;;0;;;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Bench Press (Barbell)";4;115;lbs;8;10;;;0;;;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Squat (Barbell)";1;165;lbs;8;7;;;0;"";;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Squat (Barbell)";2;165;lbs;8;8;;;0;;;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Squat (Barbell)";3;165;lbs;8;9;;;0;;;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Squat (Barbell)";4;165;lbs;8;8;;;0;;;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Overhead Press (Barbell)";1;70;lbs;6;8;;;0;"";;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Overhead Press (Barbell)";2;70;lbs;6;8;;;0;;;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Overhead Press (Barbell)";3;70;lbs;8;;;;0;;;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Overhead Press (Barbell)";4;70;lbs;8;;;;0;;;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Chin Up (Assisted)";1;70;lbs;8;7;;;0;"";;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Chin Up (Assisted)";2;70;lbs;8;7.5;;;0;;;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Chin Up (Assisted)";3;70;lbs;8;;;;0;;;1h 7m
+2022-11-02 17:02:49;"Week B Day 2";"Chin Up (Assisted)";4;70;lbs;8;;;;0;;;1h 7m
+2022-11-04 13:25:54;"Week B Day 3";"Bench Press (Barbell)";1;115;lbs;8;7.5;;;0;"";"";55m
+2022-11-04 13:25:54;"Week B Day 3";"Bench Press (Barbell)";2;115;lbs;8;8;;;0;;;55m
+2022-11-04 13:25:54;"Week B Day 3";"Bench Press (Barbell)";3;115;lbs;8;8.5;;;0;;;55m
+2022-11-04 13:25:54;"Week B Day 3";"Bench Press (Barbell)";4;115;lbs;5;10;;;0;;;55m
+2022-11-04 13:25:54;"Week B Day 3";"Deadlift (Barbell)";1;150;lbs;4;6;;;0;"";;55m
+2022-11-04 13:25:54;"Week B Day 3";"Deadlift (Barbell)";2;150;lbs;4;6;;;0;;;55m
+2022-11-04 13:25:54;"Week B Day 3";"Deadlift (Barbell)";3;150;lbs;4;6;;;0;;;55m
+2022-11-04 13:25:54;"Week B Day 3";"Deadlift (Barbell)";4;150;lbs;10;8.5;;;0;;;55m
+2022-11-04 13:25:54;"Week B Day 3";"Overhead Press (Barbell)";1;70;lbs;5;8.5;;;0;"";;55m
+2022-11-04 13:25:54;"Week B Day 3";"Overhead Press (Barbell)";2;70;lbs;5;8.5;;;0;;;55m
+2022-11-04 13:25:54;"Week B Day 3";"Overhead Press (Barbell)";3;70;lbs;5;8.5;;;0;;;55m
+2022-11-04 13:25:54;"Week B Day 3";"Overhead Press (Barbell)";4;70;lbs;5;10;;;0;;;55m
+2022-11-04 13:25:54;"Week B Day 3";"Bent Over Row (Barbell)";1;80;lbs;8;8;;;0;"";;55m
+2022-11-04 13:25:54;"Week B Day 3";"Bent Over Row (Barbell)";2;80;lbs;8;8;;;0;;;55m
+2022-11-04 13:25:54;"Week B Day 3";"Bent Over Row (Barbell)";3;80;lbs;8;8.5;;;0;;;55m
+2022-11-04 13:25:54;"Week B Day 3";"Bent Over Row (Barbell)";4;80;lbs;8;10;;;0;;;55m
+2022-11-07 16:37:24;"Week A Day 1";"Bench Press (Barbell)";1;120;lbs;4;7;;;0;"";"";1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Bench Press (Barbell)";2;120;lbs;4;7;;;0;;;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Bench Press (Barbell)";3;120;lbs;4;7;;;0;;;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Bench Press (Barbell)";4;120;lbs;4;7.5;;;0;;;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Squat (Barbell)";1;165;lbs;8;6;;;0;"";;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Squat (Barbell)";2;165;lbs;8;7;;;0;;;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Squat (Barbell)";3;165;lbs;8;7.5;;;0;;;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Squat (Barbell)";4;165;lbs;8;8;;;0;;;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Overhead Press (Barbell)";1;70;lbs;8;7.5;;;0;"";;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Overhead Press (Barbell)";2;70;lbs;6;8;;;0;;;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Overhead Press (Barbell)";3;70;lbs;6;9;;;0;;;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Overhead Press (Barbell)";4;70;lbs;5;10;;;0;;;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Chin Up (Assisted)";1;70;lbs;8;7;;;0;"";;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Chin Up (Assisted)";2;70;lbs;8;6;;;0;;;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Chin Up (Assisted)";3;70;lbs;8;7;;;0;;;1h 5m
+2022-11-07 16:37:24;"Week A Day 1";"Chin Up (Assisted)";4;70;lbs;8;9;;;0;;;1h 5m
+2022-11-09 17:36:38;"Week A Day 2";"Bench Press (Barbell)";1;120;lbs;8;8;;;0;"";"";1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Bench Press (Barbell)";2;120;lbs;8;8.5;;;0;;;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Bench Press (Barbell)";3;120;lbs;8;10;;;0;;;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Bench Press (Barbell)";4;120;lbs;6;10;;;0;;;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Deadlift (Barbell)";1;180;lbs;4;7.5;;;0;"";;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Deadlift (Barbell)";2;180;lbs;4;7.5;;;0;;;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Deadlift (Barbell)";3;180;lbs;4;7.5;;;0;;;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Deadlift (Barbell)";4;180;lbs;4;7.5;;;0;;;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Overhead Press (Barbell)";1;80;lbs;4;8.5;;;0;"";;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Overhead Press (Barbell)";2;70;lbs;7;9;;;0;;;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Overhead Press (Barbell)";3;70;lbs;5;9;;;0;;;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Overhead Press (Barbell)";4;70;lbs;6;9.5;;;0;;;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Bent Over Row (Barbell)";1;90;lbs;8;7.5;;;0;"";;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Bent Over Row (Barbell)";2;90;lbs;8;7.5;;;0;;;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Bent Over Row (Barbell)";3;90;lbs;8;8;;;0;;;1h 18m
+2022-11-09 17:36:38;"Week A Day 2";"Bent Over Row (Barbell)";4;90;lbs;8;10;;;0;;;1h 18m
+2022-11-12 18:44:29;"Week A Day 3";"Squat (Barbell)";1;180;lbs;4;7;;;0;"Pain in lower right oblique, correcting on the way up";"";1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Squat (Barbell)";2;180;lbs;4;7;;;0;;;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Squat (Barbell)";3;180;lbs;4;8.5;;;0;;;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Squat (Barbell)";4;180;lbs;4;8;;;0;;;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Bench Press (Barbell)";1;130;lbs;4;7.5;;;0;"";;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Bench Press (Barbell)";2;130;lbs;4;7.5;;;0;;;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Bench Press (Barbell)";3;130;lbs;4;7.5;;;0;;;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Bench Press (Barbell)";4;130;lbs;6;9.5;;;0;;;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Overhead Press (Barbell)";1;70;lbs;8;8;;;0;"";;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Overhead Press (Barbell)";2;70;lbs;8;8.5;;;0;;;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Overhead Press (Barbell)";3;70;lbs;8;9.5;;;0;;;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Overhead Press (Barbell)";4;70;lbs;4;10;;;0;;;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Chin Up";1;0;lbs;5;8.5;;;0;"";;1h 13m
+2022-11-12 18:44:29;"Week A Day 3";"Chin Up";2;0;lbs;5;8.5;;;0;;;1h 13m
+2022-11-14 17:32:49;"Week B Day 1";"Bench Press (Barbell)";1;120;lbs;8;7;;;0;"";"";1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Bench Press (Barbell)";2;120;lbs;8;7.5;;;0;;;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Bench Press (Barbell)";3;120;lbs;8;7.5;;;0;;;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Bench Press (Barbell)";4;120;lbs;6;10;;;0;;;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Deadlift (Barbell)";1;180;lbs;8;8;;;0;"";;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Deadlift (Barbell)";2;180;lbs;5;8;;;0;;;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Deadlift (Barbell)";3;180;lbs;6;8.5;;;0;;;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Deadlift (Barbell)";4;180;lbs;6;9;;;0;;;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Overhead Press (Barbell)";1;80;lbs;4;6;;;0;"";;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Overhead Press (Barbell)";2;80;lbs;4;7.5;;;0;;;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Overhead Press (Barbell)";3;80;lbs;4;8;;;0;;;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Overhead Press (Barbell)";4;80;lbs;6;9;;;0;;;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Bent Over Row (Barbell)";1;100;lbs;4;7.5;;;0;"";;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Bent Over Row (Barbell)";2;100;lbs;4;7.5;;;0;;;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Bent Over Row (Barbell)";3;100;lbs;4;7.5;;;0;;;1h 15m
+2022-11-14 17:32:49;"Week B Day 1";"Bent Over Row (Barbell)";4;100;lbs;4;7.5;;;0;;;1h 15m
+2022-11-17 09:54:35;"Week B Day 2";"Squat (Barbell)";1;170;lbs;8;7;;;0;"";"";1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Squat (Barbell)";2;170;lbs;15;9;;;0;;;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Squat (Barbell)";3;170;lbs;10;9;;;0;;;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Squat (Barbell)";4;170;lbs;10;9;;;0;;;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Bench Press (Barbell)";1;130;lbs;5;9.5;;;0;"";;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Bench Press (Barbell)";2;95;lbs;15;10;;;0;;;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Bench Press (Barbell)";3;95;lbs;12;9.5;;;0;;;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Bench Press (Barbell)";4;95;lbs;10;10;;;0;;;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Overhead Press (Barbell)";1;70;lbs;8;8.5;;;0;"";;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Overhead Press (Barbell)";2;70;lbs;6;8;;;0;;;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Overhead Press (Barbell)";3;70;lbs;6;8.5;;;0;;;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Overhead Press (Barbell)";4;70;lbs;8;9.5;;;0;;;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Chin Up (Assisted)";1;60;lbs;8;7.5;;;0;"";;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Chin Up (Assisted)";2;60;lbs;8;8;;;0;;;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Chin Up (Assisted)";3;60;lbs;8;8.5;;;0;;;1h 41m
+2022-11-17 09:54:35;"Week B Day 2";"Chin Up (Assisted)";4;60;lbs;8;9.5;;;0;;;1h 41m
+2022-11-19 15:32:13;"Week B Day 3";"Bench Press (Barbell)";1;95;lbs;12;7;;;0;"";"";1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Bench Press (Barbell)";2;95;lbs;12;7.5;;;0;;;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Bench Press (Barbell)";3;95;lbs;12;8.5;;;0;;;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Bench Press (Barbell)";4;95;lbs;9;9;;;0;;;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Overhead Press (Barbell)";1;80;lbs;4;7;;;0;"";;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Overhead Press (Barbell)";2;80;lbs;4;7;;;0;;;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Overhead Press (Barbell)";3;80;lbs;4;7.5;;;0;;;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Overhead Press (Barbell)";4;80;lbs;8;9.5;;;0;;;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Deadlift (Barbell)";1;200;lbs;4;7;;;0;"";;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Deadlift (Barbell)";2;200;lbs;4;7;;;0;;;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Deadlift (Barbell)";3;200;lbs;4;7;;;0;;;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Deadlift (Barbell)";4;200;lbs;7;9.5;;;0;;;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Bent Over Row (Barbell)";1;90;lbs;10;7.5;;;0;"";;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Bent Over Row (Barbell)";2;90;lbs;10;7.5;;;0;;;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Bent Over Row (Barbell)";3;90;lbs;10;8.5;;;0;;;1h 24m
+2022-11-19 15:32:13;"Week B Day 3";"Bent Over Row (Barbell)";4;90;lbs;10;10;;;0;;;1h 24m
+2022-11-21 20:13:12;"Week A Day 1";"Squat (Barbell)";1;190;lbs;8;8;;;0;"";"";1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Squat (Barbell)";2;190;lbs;8;8;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Squat (Barbell)";3;190;lbs;7;9.5;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Squat (Barbell)";4;190;lbs;8;9.5;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Bench Press (Barbell)";1;115;lbs;10;7;;;0;"";;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Bench Press (Barbell)";2;115;lbs;10;7.5;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Bench Press (Barbell)";3;115;lbs;8;10;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Bench Press (Barbell)";4;115;lbs;8;9.5;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Overhead Press (Barbell)";1;70;lbs;8;8.5;;;0;"";;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Overhead Press (Barbell)";2;70;lbs;8;9.5;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Overhead Press (Barbell)";3;70;lbs;6;9.5;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Overhead Press (Barbell)";4;70;lbs;8;9.5;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Chin Up (Assisted)";1;50;lbs;8;7.5;;;0;"";;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Chin Up (Assisted)";2;50;lbs;8;8;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Chin Up (Assisted)";3;50;lbs;8;8.5;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Chin Up (Assisted)";4;50;lbs;6;10;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Triceps Extension";1;50;lbs;10;7.5;;;0;"";;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Triceps Extension";2;60;lbs;12;8.5;;;0;;;1h 18m
+2022-11-21 20:13:12;"Week A Day 1";"Triceps Extension";3;60;lbs;10;8.5;;;0;;;1h 18m
+2022-11-23 14:38:58;"Week A Day 2";"Deadlift (Barbell)";1;200;lbs;8;7.5;;;0;"";"";1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Deadlift (Barbell)";2;200;lbs;8;7.5;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Deadlift (Barbell)";3;200;lbs;8;8;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Deadlift (Barbell)";4;200;lbs;8;9;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Bench Press (Barbell)";1;95;lbs;15;8;;;0;"";;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Bench Press (Barbell)";2;95;lbs;10;8.5;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Bench Press (Barbell)";3;95;lbs;8;10;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Bench Press (Barbell)";4;95;lbs;10;10;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Overhead Press (Barbell)";1;45;lbs;8;7.5;;;0;"";;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Overhead Press (Barbell)";2;70;lbs;8;9;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Overhead Press (Barbell)";3;70;lbs;8;9;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Overhead Press (Barbell)";4;70;lbs;8;9.5;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Bent Over Row (Barbell)";1;100;lbs;8;7.5;;;0;"";;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Bent Over Row (Barbell)";2;100;lbs;10;7.5;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Bent Over Row (Barbell)";3;100;lbs;10;9.5;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Bent Over Row (Barbell)";4;100;lbs;8;10;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Triceps Extension";1;30;lbs;15;;;;0;"";;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Triceps Extension";2;30;lbs;15;;;;0;;;1h 47m
+2022-11-23 14:38:58;"Week A Day 2";"Triceps Extension";3;30;lbs;15;;;;0;;;1h 47m
+2022-11-26 17:06:56;"Week A Day 3";"Squat (Barbell)";1;45;lbs;8;6;;;0;"Lower back felt weird at the bottom";"";1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Squat (Barbell)";2;135;lbs;8;6;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Squat (Barbell)";3;210;lbs;4;7;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Squat (Barbell)";4;210;lbs;4;7.5;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Squat (Barbell)";5;210;lbs;4;8;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Squat (Barbell)";6;210;lbs;4;9;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Bench Press (Barbell)";1;45;lbs;12;6;;;0;"";;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Bench Press (Barbell)";2;95;lbs;12;6.5;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Bench Press (Barbell)";3;95;lbs;12;7;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Bench Press (Barbell)";4;95;lbs;12;7.5;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Bench Press (Barbell)";5;95;lbs;13;8.5;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Overhead Press (Barbell)";1;45;lbs;5;8;;;0;"";;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Overhead Press (Barbell)";2;70;lbs;8;8;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Overhead Press (Barbell)";3;70;lbs;8;8;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Overhead Press (Barbell)";4;70;lbs;8;8.5;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Overhead Press (Barbell)";5;70;lbs;9;8.5;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Chin Up (Assisted)";1;45;lbs;4;7.5;;;0;"";;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Chin Up (Assisted)";2;45;lbs;4;7.5;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Chin Up (Assisted)";3;45;lbs;4;7.5;;;0;;;1h 43m
+2022-11-26 17:06:56;"Week A Day 3";"Chin Up (Assisted)";4;45;lbs;4;8;;;0;;;1h 43m
+2022-11-30 14:47:26;"Week B Day 2";"Bench Press (Barbell)";1;95;lbs;15;8;;;0;"";"";1h 14m
+2022-11-30 14:47:26;"Week B Day 2";"Bench Press (Barbell)";2;95;lbs;15;8.5;;;0;;;1h 14m
+2022-11-30 14:47:26;"Week B Day 2";"Bench Press (Barbell)";3;95;lbs;15;9.5;;;0;;;1h 14m
+2022-11-30 14:47:26;"Week B Day 2";"Bench Press (Barbell)";4;95;lbs;12;10;;;0;;;1h 14m
+2022-11-30 14:47:26;"Week B Day 2";"Pull Up (Band)";1;;;10;;;;0;"Actually chinup negatives";;1h 14m
+2022-11-30 14:47:26;"Week B Day 2";"Pull Up (Band)";2;;;10;;;;0;;;1h 14m
+2022-11-30 14:47:26;"Week B Day 2";"Pull Up (Band)";3;;;10;;;;0;;;1h 14m
+2022-11-30 14:47:26;"Week B Day 2";"Pull Up (Band)";4;;;10;;;;0;;;1h 14m
+2022-11-30 14:47:26;"Week B Day 2";"Squat (Barbell)";1;210;lbs;8;8;;;0;"Nervous to finish at bottom of last set";;1h 14m
+2022-11-30 14:47:26;"Week B Day 2";"Squat (Barbell)";2;210;lbs;5;7.5;;;0;;;1h 14m
+2022-11-30 14:47:26;"Week B Day 2";"Squat (Barbell)";3;210;lbs;6;8;;;0;;;1h 14m
+2022-11-30 14:47:26;"Week B Day 2";"Squat (Barbell)";4;210;lbs;2;9;;;0;;;1h 14m
